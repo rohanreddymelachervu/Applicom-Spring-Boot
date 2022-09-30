@@ -7,7 +7,8 @@
  Run the Spring Boot server, Endpoints are  
  
  /users/address (POST) 
-![image](https://user-images.githubusercontent.com/81566132/193196726-80174e66-f875-431f-9763-7e1d991c523a.png)
+![image](https://user-images.githubusercontent.com/81566132/193196726-80174e66-f875-431f-9763-7e1d991c523a.png)  
+
 Sample post request for this endpoint  
 
 /users/address (GET)  
