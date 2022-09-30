@@ -11,7 +11,8 @@
  
  /users/address (POST) 
 Sample post request for this endpoint  
-![image](https://user-images.githubusercontent.com/81566132/193196726-80174e66-f875-431f-9763-7e1d991c523a.png)  
+![image](https://user-images.githubusercontent.com/81566132/193198548-ce9d12c9-224b-4d1e-8374-0a345e6fa1e2.png)  
+
 
 
 /users/address (GET)  
