@@ -2,7 +2,7 @@
  Java Version - 1.8  
  Maven build  
  Server port - 9191  
- Server address - 127.0.0.1 
+ Server address - 127.0.0.1  
  Database - MySQL Database  
  Database address - 127.0.0.1  
  Database port - 3306  
