@@ -7,7 +7,7 @@
  Database address - 127.0.0.1  
  Database port - 3306  
  Change the username and password for database in application.properties which is under src/main/resources according to your own database.
- Run the Spring Boot server, Endpoints are  
+ Run the Spring Boot app, Endpoints are  
  
  /users/address (POST) 
 Sample post request for this endpoint  
