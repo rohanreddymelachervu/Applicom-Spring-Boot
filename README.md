@@ -3,7 +3,10 @@
  Maven build  
  Server port - 9191  
  Server address - 127.0.0.1 
- Database - MySQL Database   
+ Database - MySQL Database  
+ Database address - 127.0.0.1  
+ Database port - 3306  
+ Change the username and password for database in application.properties which is under src/main/resources according to your own database.
  Run the Spring Boot server, Endpoints are  
  
  /users/address (POST) 
